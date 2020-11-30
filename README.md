@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 20%" />
+</div>  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SHANMUKH-CH&label=Profile%20views&color=0e75b6&style=flat" alt="SHANMUKH-CH" /> </p>
 
 <p align="left"> <a href="https://twitter.com/t3rr0rblad3" target="blank"><img src="https://img.shields.io/twitter/follow/t3rr0rblad3?logo=twitter&style=for-the-badge" alt="t3rr0rblad3" /></a> </p>
