@@ -2,6 +2,8 @@
 
 <p align="left"> <a href="https://twitter.com/t3rr0rblad3" target="blank"><img src="https://img.shields.io/twitter/follow/t3rr0rblad3?logo=twitter&style=for-the-badge" alt="t3rr0rblad3" /></a> </p>
 
+<p align="left"> <a href="https://discord.com/users/Slayer#0014/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" alt="Shanmukh's Discord" / ></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/t3rr0rblad3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="t3rr0rblad3" height="30" width="40" /></a>
