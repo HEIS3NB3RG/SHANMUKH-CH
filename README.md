@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 20%" />
+<img src="https://github.com/SHANMUKH-CH/SHANMUKH-CH/blob/main/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SHANMUKH-CH&label=Profile%20views&color=0e75b6&style=flat" alt="SHANMUKH-CH" /> </p>
