@@ -9,6 +9,7 @@
 <a href="https://discord.com/users/Slayer#0014" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" alt="Shanmukh" height="30" width="40" /></a>
 <a href="https://twitter.com/t3rr0rblad3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="t3rr0rblad3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shanmukh-ch-8397621b7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shanmukh-ch-8397621b7" height="30" width="40" /></a>
+<a href="https://t.me/Terrorblade88" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="shan's Telegram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
